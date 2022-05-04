@@ -1,5 +1,5 @@
 {
-  "name": "@solana/spl-token-swap",
+  "name": "@solcial.io/spl-token-swap",
   "version": "0.1.3",
   "description": "SPL Token Swap JavaScript API",
   "license": "MIT",
